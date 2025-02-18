@@ -1,13 +1,4 @@
-'''
-this is a simple interface for getting answers to questions
-since brainly uses javascript to render their search page,
-and datadome does a pretty good job of blocking headless browsers,
-im just going to leave it using manual input for answers for now.
-all you really have to do is click the link and copy paste, so its not
-too bad, and plus my original solution had you copying the datadome cookie
-from a real browser to the cli anyway, so was never fully automatic
-im sure theres a better way but this works for now.
-'''
+
 
 import logging
 import pickle
